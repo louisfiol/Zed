@@ -1,0 +1,24 @@
+tree_dir/
+│
+├── src/
+│   └── lib.rs
+│
+├── themes/
+│   └── my-theme.json
+│
+├── icon_themes/
+│   └── my-icon-theme.json
+│
+├── icons/
+│
+├── snippets/
+│   ├── snippets.json
+│   └── rust.json
+│
+├── languages/
+│   └── my-language/
+│      ├── config.toml
+│      └── highlights.scm
+│
+├── extension.toml
+└── Cargo.toml
